@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @StringRays
-- 👀 I’m interested learning new things. I learn experientially so I'll update this over time as my interest patterns within development become more apparent. Machine learning/NLP deeply interest me at this point.
-- 🌱 I’m currently learning Python, HTML,CSS, AWS Cloud9, AWS Lambdas, Linux OS, VS Code, etc.
-- 💞️ I’m looking to collaborate on beginner level projects 
-- 📫 How to reach me [will fill in later]
-
+- Lab Technician by night
+- Interested in data science, linguistics, psychology, and education. 
+- Lifelong learner who his looking forward to the ability to get a job that allows them to use their mind. 
+- Interested in tech that bridges communication barriers, meets accessibility needs, or in general aims to improve the human experience. 
 <!---
 StringRays/StringRays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
