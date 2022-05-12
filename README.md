@@ -1,4 +1,4 @@
-- Lab Technician by night
+- Lab Technician and STEM nerd currently learning programming and computer science. 
 - Interested in data science, NLP, and IoT. 
 - Interested in tech that bridges communication barriers, meets accessibility needs, or in general aims to improve the human experience. 
 <!---
