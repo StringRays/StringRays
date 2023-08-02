@@ -1,3 +1,1 @@
- - [Find me on Replit](https://replit.com/@StringRays1)
  - [Find me on LinkedIn](https://www.linkedin.com/in/rhea-eckman-74b985235/)
- - [Find me on CodePen](https://codepen.io/stringrays)
